@@ -1,0 +1,13 @@
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.csprojAssemblyReference.cache
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.csproj.CoreCompileInputs.cache
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.AssemblyInfoInputs.cache
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.AssemblyInfo.cs
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\bin\Debug\netcoreapp3.1\additional1_1.exe
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\bin\Debug\netcoreapp3.1\additional1_1.deps.json
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\bin\Debug\netcoreapp3.1\additional1_1.runtimeconfig.json
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\bin\Debug\netcoreapp3.1\additional1_1.runtimeconfig.dev.json
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\bin\Debug\netcoreapp3.1\additional1_1.dll
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\bin\Debug\netcoreapp3.1\additional1_1.pdb
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.dll
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.pdb
+D:\Documents\gitgoodline\additional_tasks\Новая папка\additional1_1\additional1_1\obj\Debug\netcoreapp3.1\additional1_1.genruntimeconfig.cache
