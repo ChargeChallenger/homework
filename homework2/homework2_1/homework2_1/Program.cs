@@ -18,7 +18,7 @@ namespace homework2_1
             Array.Sort(array);
             Console.WriteLine("Массив отсортирован по возрастанию");
             int uniqueCounter = 1; //Предполагается, что в массиве уже есть какое-либо число
-            for (int i = 1; i < arraySize; i++)
+            for (int i = 1; i < arraySize; i++) // Сложность O(n)
             {
                 if (array[i] != array[i-1])
                 {

@@ -18,7 +18,7 @@ namespace homework2_2
                     squareArray[columnIteration, rowIteration] = int.Parse(Console.ReadLine());
                 }
             }
-            for (int columnIteration = 0; columnIteration < arraySize; columnIteration++)
+            for (int columnIteration = 0; columnIteration < arraySize; columnIteration++) // Сложность O(n2)
             {
                 for (int rowIteration = 0; rowIteration < arraySize; rowIteration++)
                 {
