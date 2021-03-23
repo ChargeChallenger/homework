@@ -1,0 +1,13 @@
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\bin\Debug\netcoreapp3.1\homework2_2.exe
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\bin\Debug\netcoreapp3.1\homework2_2.deps.json
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\bin\Debug\netcoreapp3.1\homework2_2.runtimeconfig.json
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\bin\Debug\netcoreapp3.1\homework2_2.runtimeconfig.dev.json
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\bin\Debug\netcoreapp3.1\homework2_2.dll
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\bin\Debug\netcoreapp3.1\homework2_2.pdb
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.csprojAssemblyReference.cache
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.csproj.CoreCompileInputs.cache
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.AssemblyInfoInputs.cache
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.AssemblyInfo.cs
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.dll
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.pdb
+D:\Documents\gitgoodline\homework2\homework2_2\homework2_2\obj\Debug\netcoreapp3.1\homework2_2.genruntimeconfig.cache
