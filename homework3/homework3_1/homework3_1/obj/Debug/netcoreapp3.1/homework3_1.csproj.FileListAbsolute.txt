@@ -1,0 +1,13 @@
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.csprojAssemblyReference.cache
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.csproj.CoreCompileInputs.cache
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.AssemblyInfoInputs.cache
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.AssemblyInfo.cs
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\bin\Debug\netcoreapp3.1\homework3_1.exe
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\bin\Debug\netcoreapp3.1\homework3_1.deps.json
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\bin\Debug\netcoreapp3.1\homework3_1.runtimeconfig.json
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\bin\Debug\netcoreapp3.1\homework3_1.runtimeconfig.dev.json
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\bin\Debug\netcoreapp3.1\homework3_1.dll
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\bin\Debug\netcoreapp3.1\homework3_1.pdb
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.dll
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.pdb
+D:\Documents\gitgoodline\homework3\homework3_1\homework3_1\obj\Debug\netcoreapp3.1\homework3_1.genruntimeconfig.cache
