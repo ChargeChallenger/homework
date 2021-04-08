@@ -1,0 +1,13 @@
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\bin\Debug\netcoreapp3.1\homework4_4.exe
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\bin\Debug\netcoreapp3.1\homework4_4.deps.json
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\bin\Debug\netcoreapp3.1\homework4_4.runtimeconfig.json
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\bin\Debug\netcoreapp3.1\homework4_4.runtimeconfig.dev.json
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\bin\Debug\netcoreapp3.1\homework4_4.dll
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\bin\Debug\netcoreapp3.1\homework4_4.pdb
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.csprojAssemblyReference.cache
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.csproj.CoreCompileInputs.cache
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.AssemblyInfoInputs.cache
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.AssemblyInfo.cs
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.dll
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.pdb
+D:\Documents\gitgoodline\homework4\homework4_4\homework4_4\obj\Debug\netcoreapp3.1\homework4_4.genruntimeconfig.cache

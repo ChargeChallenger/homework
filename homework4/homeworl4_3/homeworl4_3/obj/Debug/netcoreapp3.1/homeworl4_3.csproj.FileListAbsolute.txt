@@ -1,0 +1,12 @@
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\bin\Debug\netcoreapp3.1\homeworl4_3.exe
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\bin\Debug\netcoreapp3.1\homeworl4_3.deps.json
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\bin\Debug\netcoreapp3.1\homeworl4_3.runtimeconfig.json
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\bin\Debug\netcoreapp3.1\homeworl4_3.runtimeconfig.dev.json
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\bin\Debug\netcoreapp3.1\homeworl4_3.dll
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\bin\Debug\netcoreapp3.1\homeworl4_3.pdb
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\obj\Debug\netcoreapp3.1\homeworl4_3.csproj.CoreCompileInputs.cache
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\obj\Debug\netcoreapp3.1\homeworl4_3.AssemblyInfoInputs.cache
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\obj\Debug\netcoreapp3.1\homeworl4_3.AssemblyInfo.cs
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\obj\Debug\netcoreapp3.1\homeworl4_3.dll
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\obj\Debug\netcoreapp3.1\homeworl4_3.pdb
+D:\Documents\gitgoodline\homework4\homeworl4_3\homeworl4_3\obj\Debug\netcoreapp3.1\homeworl4_3.genruntimeconfig.cache
