@@ -12,7 +12,7 @@ namespace homework4_5
             Random generator = new Random();
             for (int i=0; i <50; i++)
             {
-                numbers.Add(generator.Next(0, 50));
+                numbers.Add(generator.Next(0, 25));
             }
             var resultNumbers = numbers.Distinct();
             resultNumbers = resultNumbers.OrderByDescending(resultNumber => resultNumber);
