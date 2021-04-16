@@ -1,0 +1,13 @@
+D:\Documents\gitgoodline\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.exe
+D:\Documents\gitgoodline\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.deps.json
+D:\Documents\gitgoodline\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.runtimeconfig.json
+D:\Documents\gitgoodline\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.runtimeconfig.dev.json
+D:\Documents\gitgoodline\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.dll
+D:\Documents\gitgoodline\console_project\console_project\bin\Debug\netcoreapp3.1\console_project.pdb
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.csprojAssemblyReference.cache
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.csproj.CoreCompileInputs.cache
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.AssemblyInfoInputs.cache
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.AssemblyInfo.cs
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.dll
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.pdb
+D:\Documents\gitgoodline\console_project\console_project\obj\Debug\netcoreapp3.1\console_project.genruntimeconfig.cache
